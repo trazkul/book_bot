@@ -1,0 +1,1 @@
+dp.run_polling(bot)
